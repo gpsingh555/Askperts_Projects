@@ -1,0 +1,67 @@
+/* You can add global main styles to this file, and also import other style files */
+
+@media screen and (max-width: 767px) {
+    .grid-service {
+        margin-right: 0 !important;
+    }
+    .home-wapper {
+        padding-top: 5rem;
+    }
+    .app-mobile img {
+        display: none;
+    }
+    .app-layout {
+        padding: 0px !important;
+        height: 100% !important;
+        margin: 50px 0px;
+    }
+    .app-store img {
+        height: 39px !important;
+        margin: 0px 5px 0px 0px !important;
+    }
+    .service-panel {
+        padding: 40px 0px;
+    }
+    .grid-service {
+        min-height: 185px !important;
+        margin-bottom: 20px;
+        margin-right: 45px;
+        padding: 22px;
+    }
+    .navbar-nav{
+        margin-left: 0% !important;
+    }
+    .search-panel {
+        width: 100% !important;
+        margin-right: 0px !important;
+        margin-bottom: 20px;
+    }
+    .signup-panel .container:after {
+        width: 12% !important;
+    }
+    .user-form {
+        padding-bottom: 40px;
+    }
+    .appliance-panel {
+        padding: 60px 0px;
+        display: flow-root;
+    }
+    .app-service-title {
+        font-weight: 500;
+        font-size: 1.0rem;
+    }
+    .app-service-grid {
+        width: 44.444% !important;
+        margin: 0px 15px 40px 0px !important;
+    }
+
+}
+
+
+@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:portrait) {
+    .app-service-grid {
+        width: 27.1% !important;
+    }
+
+
+}
