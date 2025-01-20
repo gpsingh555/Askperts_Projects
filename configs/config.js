@@ -15,19 +15,21 @@ module.exports = {
 
     //// live cred
 
-    accountSid: 'AC9c0f760b2d04596767e4075b6399204b',
-    authToken: 'add276bfea8dd919f00e5434a0707a70',
-    twilio_no: '+12345952401',
+    // Twilio live credentials
+    
+    // accountSid: 'AC9c0f760b2d04596767e4075b6399204b',
+    // authToken: 'add276bfea8dd919f00e5434a0707a70',
+    // twilio_no: '+12345952401',
 
 
     mail_key: 'XiP8fWlOdE_I4tA7wRcceg',
 
-    defaultOTPExpireTime: 15 * 60 * 1000,
-    JWT_PRIVATE_KEY: 'supersecret',
-    oneDay: 86400,
-    port:3001,
-    S3_AccessKey: 'AKIAYKQPZEQRHQGEYFSD',
-    S3_SecretKey: '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',
-    S3_BucketName: 'askpertsbucket',
-    S3_Region: 'me-central-1',
+    // defaultOTPExpireTime: 15 * 60 * 1000,
+    // JWT_PRIVATE_KEY: 'supersecret',
+    // oneDay: 86400,
+    // port:3001,
+    // S3_AccessKey: 'AKIAYKQPZEQRHQGEYFSD',
+    // S3_SecretKey: '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',
+    // S3_BucketName: 'askpertsbucket',
+    // S3_Region: 'me-central-1',
 }
